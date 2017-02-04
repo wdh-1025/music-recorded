@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Music</string>
+
+
+    <string name="action_settings">haah</string>
+    <string name="btnR">start</string>
+    <string name="btnS">stop</string>
+    <string name="btnE">exit</string>
+    <string name="textV">vlounm</string>
+    <string name="attention">Attention: 请仅连接一个蓝牙设备。</string>
+
+</resources>
